@@ -13,15 +13,10 @@ while(row < 17){
     if(column === 0){
         square.className += " clear";
     }
-    
         document.body.appendChild(square);
         column++;
-    
     }
-
     row++;
-
-
 }
 
 
