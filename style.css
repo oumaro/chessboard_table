@@ -1,0 +1,28 @@
+div {
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    float: left;
+    background: #fff;
+    color: #000;
+    margin: 0 -1px -1px 0;
+}
+
+.clear {
+    clear: both
+}
+
+.black {
+    background: #000;
+    color: #fff;
+}
+
+.white {
+    background: #fff;
+    color: #000;
+}
+.container {
+    max-width: 600px;
+    margin: 5px auto;
+    padding: 5px;
+}
